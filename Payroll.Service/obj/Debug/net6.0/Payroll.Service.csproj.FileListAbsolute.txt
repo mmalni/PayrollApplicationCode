@@ -1,0 +1,17 @@
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\bin\Debug\net6.0\Payroll.Service.deps.json
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\bin\Debug\net6.0\Payroll.Service.dll
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\bin\Debug\net6.0\ref\Payroll.Service.dll
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\bin\Debug\net6.0\Payroll.Service.pdb
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\bin\Debug\net6.0\Payroll.Common.dll
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\bin\Debug\net6.0\Payroll.Model.dll
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\bin\Debug\net6.0\Payroll.Common.pdb
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\bin\Debug\net6.0\Payroll.Model.pdb
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\obj\Debug\net6.0\Payroll.Service.csproj.AssemblyReference.cache
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\obj\Debug\net6.0\Payroll.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\obj\Debug\net6.0\Payroll.Service.AssemblyInfoInputs.cache
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\obj\Debug\net6.0\Payroll.Service.AssemblyInfo.cs
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\obj\Debug\net6.0\Payroll.Service.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\obj\Debug\net6.0\Payroll.Service.csproj.CopyComplete
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\obj\Debug\net6.0\Payroll.Service.dll
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\obj\Debug\net6.0\ref\Payroll.Service.dll
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.Service\obj\Debug\net6.0\Payroll.Service.pdb

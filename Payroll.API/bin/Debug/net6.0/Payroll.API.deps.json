@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Payroll.API/1.0.0": {
+        "dependencies": {
+          "Payroll.Common": "1.0.0",
+          "Payroll.Model": "1.0.0",
+          "Payroll.Service": "1.0.0"
+        },
+        "runtime": {
+          "Payroll.API.dll": {}
+        }
+      },
+      "Payroll.Common/1.0.0": {
+        "runtime": {
+          "Payroll.Common.dll": {}
+        }
+      },
+      "Payroll.Model/1.0.0": {
+        "runtime": {
+          "Payroll.Model.dll": {}
+        }
+      },
+      "Payroll.Service/1.0.0": {
+        "dependencies": {
+          "Payroll.Common": "1.0.0",
+          "Payroll.Model": "1.0.0"
+        },
+        "runtime": {
+          "Payroll.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Payroll.API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Payroll.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Payroll.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Payroll.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

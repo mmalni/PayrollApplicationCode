@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05b163a6-c3e4-491d-9cea-decfb15bb49f": {
+      "ProjectGuid": "05b163a6-c3e4-491d-9cea-decfb15bb49f",
+      "DisplayName": "Payroll.Client",
+      "ColorIndex": 0
+    },
+    "ee8dd5fb-73fe-4edd-a93e-12876d1cccda": {
+      "ProjectGuid": "ee8dd5fb-73fe-4edd-a93e-12876d1cccda",
+      "DisplayName": "Payroll.API",
+      "ColorIndex": 1
+    },
+    "d34e6d31-0d0c-4d2b-92df-d000a43dff88": {
+      "ProjectGuid": "d34e6d31-0d0c-4d2b-92df-d000a43dff88",
+      "DisplayName": "Payroll.Model",
+      "ColorIndex": 2
+    },
+    "b62319fa-4f73-4b3b-8f4d-8cc125aa5c7f": {
+      "ProjectGuid": "b62319fa-4f73-4b3b-8f4d-8cc125aa5c7f",
+      "DisplayName": "Payroll.Service",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e8b06246-ffa5-4446-9c9a-a5f9d4fc2e60": {
+      "ProjectGuid": "e8b06246-ffa5-4446-9c9a-a5f9d4fc2e60",
+      "DisplayName": "Payroll.Common",
+      "ColorIndex": 4
+    },
+    "7334ed1d-dd32-4114-ab90-4ac8f2f5171a": {
+      "ProjectGuid": "7334ed1d-dd32-4114-ab90-4ac8f2f5171a",
+      "DisplayName": "PayrollClient",
+      "ColorIndex": 5
+    },
+    "dc63fc12-9d17-428f-9949-2218c2f96ed4": {
+      "ProjectGuid": "dc63fc12-9d17-428f-9949-2218c2f96ed4",
+      "DisplayName": "PayrollApplicationTest",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

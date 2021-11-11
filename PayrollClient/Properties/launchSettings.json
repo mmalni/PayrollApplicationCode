@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PayrollClient": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Rajesh\\Desktop\\Malini\\input.csv C:\\Users\\Rajesh\\Desktop\\Malini"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.common\bin\Debug\net6.0\Payroll.Common.deps.json
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.common\bin\Debug\net6.0\Payroll.Common.dll
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.common\bin\Debug\net6.0\ref\Payroll.Common.dll
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.common\bin\Debug\net6.0\Payroll.Common.pdb
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.common\obj\Debug\net6.0\Payroll.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.common\obj\Debug\net6.0\Payroll.Common.AssemblyInfoInputs.cache
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.common\obj\Debug\net6.0\Payroll.Common.AssemblyInfo.cs
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.common\obj\Debug\net6.0\Payroll.Common.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.common\obj\Debug\net6.0\Payroll.Common.dll
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.common\obj\Debug\net6.0\ref\Payroll.Common.dll
+C:\Users\Rajesh\OneDrive\Malini-Dev\PayrollApplication\Payroll.common\obj\Debug\net6.0\Payroll.Common.pdb
